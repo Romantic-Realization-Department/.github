@@ -1,7 +1,7 @@
 ---
 name: Feature request
 about: 자신이 개발할 예정인 기능을 이슈에 작성해주세요.
-title: "[Feature]"
+title: "[Feature] "
 labels: enhancement
 assignees: ''
 type: Feature

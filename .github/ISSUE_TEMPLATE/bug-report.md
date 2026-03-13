@@ -1,7 +1,7 @@
 ---
 name: Bug Report
 about: 발생한 버그에 대한 이슈를 작성해주세요.
-title: ''
+title: "[BUG] "
 labels: bug
 assignees: ''
 type: Bug
